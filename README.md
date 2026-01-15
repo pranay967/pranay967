@@ -10,7 +10,7 @@ Data Scientist | AI & ML Engineer | Agentic AI & Generative AI
   <summary style="font-size: 20px; font-weight:bold;">𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</summary>
 
 - ✨ Data Scientist in **ImagInnovate**
-- 🤖 Working on **AI, Machine Learning, Agentic AI, and Generative AI**
+- 🤖 Working on **Python, Machine Learning, Agentic AI, and Generative AI**
 - 🧠 Experienced in building **LLM-powered systems, AI agents, and data-driven APIs**
 - 🏙️ From **Visakhapatnam, India** 🇮🇳
 
